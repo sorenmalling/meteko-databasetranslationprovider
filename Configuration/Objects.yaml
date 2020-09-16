@@ -1,0 +1,2 @@
+Neos\Flow\I18n\TranslationProvider\TranslationProviderInterface:
+  className: Meteko\DatabaseTranslationProvider\I18n\TranslationProvider\DatabaseTranslationProvider
